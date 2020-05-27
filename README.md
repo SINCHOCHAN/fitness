@@ -2,14 +2,14 @@
 
 # This is the link to deploy. Using Heruko to run the app.
 
-https://fathomless-beach-32026.herokuapp.com/
+https://mysterious-peak-04692.herokuapp.com/
 
 # This is the link to the github repo:
-https://github.com/SINCHOCHAN/fitness-tracker
+https://github.com/SINCHOCHAN/fitness
 
 # This is the link to the live website:
 
-https://sinchochan.github.io/fitness-tracker/
+https://sinchochan.github.io/fitness/
 
 # How to run (screenshot)
 
